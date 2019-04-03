@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3173D1AA084152049912E2FE90BD9ECF"
+               BlueprintIdentifier = "8D8AF80E9A6C2B49B5DE83679CC7C7CC"
                BuildableName = "Pods_RxWebView.framework"
                BlueprintName = "Pods-RxWebView"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3173D1AA084152049912E2FE90BD9ECF"
+            BlueprintIdentifier = "8D8AF80E9A6C2B49B5DE83679CC7C7CC"
             BuildableName = "Pods_RxWebView.framework"
             BlueprintName = "Pods-RxWebView"
             ReferencedContainer = "container:Pods.xcodeproj">

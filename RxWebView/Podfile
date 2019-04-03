@@ -6,6 +6,7 @@ target 'RxWebView' do
   use_frameworks!
 pod ’RxCocoa’,    ’~> 4.3.1’
 pod ’RxSwift’,    ’~> 4.3.1’
+pod ’RxOptional’, ’~> 3.5.0’
   # Pods for RxWebView
 
 end
